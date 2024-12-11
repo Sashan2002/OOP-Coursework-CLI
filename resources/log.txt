@@ -1,243 +1,265 @@
-2024-12-11T21:56:54.957829300 : ************************************************************
-2024-12-11T21:56:54.976344600 : WELCOME MY REAL-TIME EVENT TICKETING SYSTEM
-2024-12-11T21:56:54.977476100 : ************************************************************
-2024-12-11T21:57:11.936716200 : Initializing system configurations...
-2024-12-11T21:57:24.112302400 : System configurations successfully initialized.
-2024-12-11T21:57:24.121366500 : Configuration has been saved.
-2024-12-11T21:57:24.140757500 : Ticket successfully added to the pool. Current ticket count: 1
-2024-12-11T21:57:24.142935600 : Vendor 0 added a new ticket to the pool: ID 279379331299900
-2024-12-11T21:57:24.144916300 : Ticket successfully added to the pool. Current ticket count: 2
-2024-12-11T21:57:24.147187600 : Vendor 11 added a new ticket to the pool: ID 279379342881900
-2024-12-11T21:57:24.157183300 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 279379331299900
-2024-12-11T21:57:24.158192600 : Total tickets sold so far: 1
-2024-12-11T21:57:24.160196400 : Ticket successfully added to the pool. Current ticket count: 3
-2024-12-11T21:57:24.162191 : Vendor 9 added a new ticket to the pool: ID 279379342446999
-2024-12-11T21:57:24.164190500 : Ticket successfully added to the pool. Current ticket count: 4
-2024-12-11T21:57:24.166228400 : Vendor 10 added a new ticket to the pool: ID 279379342255899
-2024-12-11T21:57:24.168202100 : Ticket successfully added to the pool. Current ticket count: 5
-2024-12-11T21:57:24.169210700 : Vendor 7 added a new ticket to the pool: ID 279379342005700
-2024-12-11T21:57:24.171196800 : Ticket successfully added to the pool. Current ticket count: 6
-2024-12-11T21:57:24.173566200 : Vendor 8 added a new ticket to the pool: ID 279379341735799
-2024-12-11T21:57:24.174765300 : Ticket successfully added to the pool. Current ticket count: 7
-2024-12-11T21:57:24.176782500 : Vendor 6 added a new ticket to the pool: ID 279379341546600
-2024-12-11T21:57:24.177788 : Ticket successfully added to the pool. Current ticket count: 8
-2024-12-11T21:57:24.178778800 : Vendor 5 added a new ticket to the pool: ID 279379341006800
-2024-12-11T21:57:24.181332400 : Ticket successfully added to the pool. Current ticket count: 9
-2024-12-11T21:57:24.183301100 : Vendor 4 added a new ticket to the pool: ID 279379340735099
-2024-12-11T21:57:24.184070400 : Ticket successfully added to the pool. Current ticket count: 10
-2024-12-11T21:57:24.186497900 : Vendor 3 added a new ticket to the pool: ID 279379340478900
-2024-12-11T21:57:24.188496500 : Ticket successfully added to the pool. Current ticket count: 11
-2024-12-11T21:57:24.190518500 : Vendor 2 added a new ticket to the pool: ID 279379340072600
-2024-12-11T21:57:24.191500300 : Ticket successfully added to the pool. Current ticket count: 12
-2024-12-11T21:57:24.193561700 : Vendor 1 added a new ticket to the pool: ID 279379339368700
-2024-12-11T21:57:24.194495100 : Ticket successfully added to the pool. Current ticket count: 13
-2024-12-11T21:57:24.196501400 : Vendor 6 added a new ticket to the pool: ID 279379391259400
-2024-12-11T21:57:24.198776100 : Ticket successfully added to the pool. Current ticket count: 14
-2024-12-11T21:57:24.199799 : Vendor 8 added a new ticket to the pool: ID 279379386287599
-2024-12-11T21:57:24.200794300 : Ticket successfully added to the pool. Current ticket count: 15
-2024-12-11T21:57:24.201792900 : Vendor 7 added a new ticket to the pool: ID 279379382045899
-2024-12-11T21:57:24.203943500 : Ticket successfully added to the pool. Current ticket count: 16
-2024-12-11T21:57:24.204977400 : Vendor 10 added a new ticket to the pool: ID 279379380183800
-2024-12-11T21:57:24.206960 : Ticket successfully added to the pool. Current ticket count: 17
-2024-12-11T21:57:24.207960900 : Vendor 9 added a new ticket to the pool: ID 279379375617300
-2024-12-11T21:57:24.209956500 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 11, Ticket ID: ID 279379342881900
-2024-12-11T21:57:24.211957200 : Total tickets sold so far: 2
-2024-12-11T21:57:24.212961300 : Ticket successfully added to the pool. Current ticket count: 18
-2024-12-11T21:57:24.213960 : Vendor 11 added a new ticket to the pool: ID 279379360007600
-2024-12-11T21:57:24.215977100 : Ticket successfully added to the pool. Current ticket count: 19
-2024-12-11T21:57:24.218035600 : Vendor 0 added a new ticket to the pool: ID 279379357046100
-2024-12-11T21:57:24.218981100 : Customer 10 successfully removed a ticket from the pool. Vendor ID: Vendor 9, Ticket ID: ID 279379342446999
-2024-12-11T21:57:24.220965500 : Total tickets sold so far: 3
-2024-12-11T21:57:24.222980400 : Customer 11 successfully removed a ticket from the pool. Vendor ID: Vendor 10, Ticket ID: ID 279379342255899
-2024-12-11T21:57:24.224018100 : Total tickets sold so far: 4
-2024-12-11T21:57:24.226024900 : Customer 9 successfully removed a ticket from the pool. Vendor ID: Vendor 7, Ticket ID: ID 279379342005700
-2024-12-11T21:57:24.226957900 : Total tickets sold so far: 5
-2024-12-11T21:57:24.227955400 : Customer 7 successfully removed a ticket from the pool. Vendor ID: Vendor 8, Ticket ID: ID 279379341735799
-2024-12-11T21:57:24.228970300 : Total tickets sold so far: 6
-2024-12-11T21:57:24.230972700 : Customer 6 successfully removed a ticket from the pool. Vendor ID: Vendor 6, Ticket ID: ID 279379341546600
-2024-12-11T21:57:24.231969700 : Total tickets sold so far: 7
-2024-12-11T21:57:24.233959700 : Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 5, Ticket ID: ID 279379341006800
-2024-12-11T21:57:24.234979200 : Total tickets sold so far: 8
-2024-12-11T21:57:24.235975600 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 279379340735099
-2024-12-11T21:57:24.237959 : Total tickets sold so far: 9
-2024-12-11T21:57:24.238958400 : Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 279379340478900
-2024-12-11T21:57:24.240466800 : Total tickets sold so far: 10
-2024-12-11T21:57:24.241482600 : Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 279379340072600
-2024-12-11T21:57:24.242488300 : Total tickets sold so far: 11
-2024-12-11T21:57:24.244482800 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 279379339368700
-2024-12-11T21:57:24.245479300 : Total tickets sold so far: 12
-2024-12-11T21:57:24.246481400 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 6, Ticket ID: ID 279379391259400
-2024-12-11T21:57:24.247491400 : Total tickets sold so far: 13
-2024-12-11T21:57:24.249482800 : Customer 6 successfully removed a ticket from the pool. Vendor ID: Vendor 8, Ticket ID: ID 279379386287599
-2024-12-11T21:57:24.250481400 : Total tickets sold so far: 14
-2024-12-11T21:57:24.251480200 : Customer 7 successfully removed a ticket from the pool. Vendor ID: Vendor 7, Ticket ID: ID 279379382045899
-2024-12-11T21:57:24.253488600 : Total tickets sold so far: 15
-2024-12-11T21:57:24.254483800 : Customer 9 successfully removed a ticket from the pool. Vendor ID: Vendor 10, Ticket ID: ID 279379380183800
-2024-12-11T21:57:24.255481100 : Total tickets sold so far: 16
-2024-12-11T21:57:24.257484900 : Customer 11 successfully removed a ticket from the pool. Vendor ID: Vendor 9, Ticket ID: ID 279379375617300
-2024-12-11T21:57:24.258503900 : Total tickets sold so far: 17
-2024-12-11T21:57:24.260479200 : Customer 10 successfully removed a ticket from the pool. Vendor ID: Vendor 11, Ticket ID: ID 279379360007600
-2024-12-11T21:57:24.261478900 : Total tickets sold so far: 18
-2024-12-11T21:57:24.262498300 : Ticket successfully added to the pool. Current ticket count: 20
-2024-12-11T21:57:24.264493500 : Vendor 0 added a new ticket to the pool: ID 279379430785299
-2024-12-11T21:57:24.265496900 : Ticket successfully added to the pool. Current ticket count: 21
-2024-12-11T21:57:24.266510600 : Vendor 11 added a new ticket to the pool: ID 279379427721800
-2024-12-11T21:57:24.268512 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 279379357046100
-2024-12-11T21:57:24.269891200 : Total tickets sold so far: 19
-2024-12-11T21:57:24.271922500 : Ticket successfully added to the pool. Current ticket count: 22
-2024-12-11T21:57:24.272915900 : Vendor 9 added a new ticket to the pool: ID 279379421738900
-2024-12-11T21:57:24.273905500 : Ticket successfully added to the pool. Current ticket count: 23
-2024-12-11T21:57:24.274902100 : Vendor 10 added a new ticket to the pool: ID 279379418695000
-2024-12-11T21:57:24.275921900 : Ticket successfully added to the pool. Current ticket count: 24
-2024-12-11T21:57:24.277933200 : Vendor 7 added a new ticket to the pool: ID 279379414748600
-2024-12-11T21:57:24.278901 : Ticket successfully added to the pool. Current ticket count: 25
-2024-12-11T21:57:24.278901 : Vendor 8 added a new ticket to the pool: ID 279379413708399
-2024-12-11T21:57:24.281420800 : Ticket successfully added to the pool. Current ticket count: 26
-2024-12-11T21:57:24.282421800 : Vendor 6 added a new ticket to the pool: ID 279379409725799
-2024-12-11T21:57:24.283419600 : Ticket successfully added to the pool. Current ticket count: 27
-2024-12-11T21:57:24.284415200 : Vendor 1 added a new ticket to the pool: ID 279379406724600
-2024-12-11T21:57:24.285443600 : Ticket successfully added to the pool. Current ticket count: 28
-2024-12-11T21:57:24.286422200 : Vendor 2 added a new ticket to the pool: ID 279379403736800
-2024-12-11T21:57:24.287418300 : Ticket successfully added to the pool. Current ticket count: 29
-2024-12-11T21:57:24.289414300 : Vendor 3 added a new ticket to the pool: ID 279379401516200
-2024-12-11T21:57:24.290416400 : Ticket successfully added to the pool. Current ticket count: 30
-2024-12-11T21:57:24.291420200 : Vendor 10 added a new ticket to the pool: ID 279379489159100
-2024-12-11T21:57:24.292423200 : Ticket successfully added to the pool. Current ticket count: 31
-2024-12-11T21:57:24.293445700 : Vendor 4 added a new ticket to the pool: ID 279379396247599
-2024-12-11T21:57:24.294497100 : Ticket successfully added to the pool. Current ticket count: 32
-2024-12-11T21:57:24.295521800 : Vendor 5 added a new ticket to the pool: ID 279379394233700
-2024-12-11T21:57:24.296511700 : Ticket successfully added to the pool. Current ticket count: 33
-2024-12-11T21:57:24.297509 : Vendor 8 added a new ticket to the pool: ID 279379492272800
-2024-12-11T21:57:24.299507300 : Ticket successfully added to the pool. Current ticket count: 34
-2024-12-11T21:57:24.300514700 : Vendor 1 added a new ticket to the pool: ID 279379498246699
-2024-12-11T21:57:24.301535900 : Ticket successfully added to the pool. Current ticket count: 35
-2024-12-11T21:57:24.302518300 : Vendor 7 added a new ticket to the pool: ID 279379490153300
-2024-12-11T21:57:24.303518900 : Ticket successfully added to the pool. Current ticket count: 36
-2024-12-11T21:57:24.304511 : Vendor 9 added a new ticket to the pool: ID 279379485141800
-2024-12-11T21:57:24.305510600 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 279379430785299
-2024-12-11T21:57:24.306510900 : Total tickets sold so far: 20
-2024-12-11T21:57:24.307523700 : Ticket successfully added to the pool. Current ticket count: 37
-2024-12-11T21:57:24.308507300 : Vendor 11 added a new ticket to the pool: ID 279379480131300
-2024-12-11T21:57:24.310515900 : Ticket successfully added to the pool. Current ticket count: 38
-2024-12-11T21:57:24.311518200 : Vendor 0 added a new ticket to the pool: ID 279379479135199
-2024-12-11T21:57:24.312508800 : Customer 10 successfully removed a ticket from the pool. Vendor ID: Vendor 11, Ticket ID: ID 279379427721800
-2024-12-11T21:57:24.313508300 : Total tickets sold so far: 21
-2024-12-11T21:57:24.315508400 : Customer 11 successfully removed a ticket from the pool. Vendor ID: Vendor 9, Ticket ID: ID 279379421738900
-2024-12-11T21:57:24.316510800 : Total tickets sold so far: 22
-2024-12-11T21:57:24.317517800 : Customer 9 successfully removed a ticket from the pool. Vendor ID: Vendor 10, Ticket ID: ID 279379418695000
-2024-12-11T21:57:24.318511 : Total tickets sold so far: 23
-2024-12-11T21:57:24.320517500 : Customer 7 successfully removed a ticket from the pool. Vendor ID: Vendor 7, Ticket ID: ID 279379414748600
-2024-12-11T21:57:24.321506700 : Total tickets sold so far: 24
-2024-12-11T21:57:24.322515400 : Customer 6 successfully removed a ticket from the pool. Vendor ID: Vendor 8, Ticket ID: ID 279379413708399
-2024-12-11T21:57:24.323506300 : Total tickets sold so far: 25
-2024-12-11T21:57:24.324510500 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 6, Ticket ID: ID 279379409725799
-2024-12-11T21:57:24.325517900 : Total tickets sold so far: 26
-2024-12-11T21:57:24.326511100 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 279379406724600
-2024-12-11T21:57:24.327506700 : Total tickets sold so far: 27
-2024-12-11T21:57:24.329507900 : Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 279379403736800
-2024-12-11T21:57:24.330611500 : Total tickets sold so far: 28
-2024-12-11T21:57:24.331628700 : Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 279379401516200
-2024-12-11T21:57:24.332626600 : Total tickets sold so far: 29
-2024-12-11T21:57:24.333628800 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 10, Ticket ID: ID 279379489159100
-2024-12-11T21:57:24.334632400 : Total tickets sold so far: 30
-2024-12-11T21:57:24.335635100 : Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 279379396247599
-2024-12-11T21:57:24.336633600 : Total tickets sold so far: 31
-2024-12-11T21:57:24.337633900 : Customer 6 successfully removed a ticket from the pool. Vendor ID: Vendor 5, Ticket ID: ID 279379394233700
-2024-12-11T21:57:24.338630200 : Total tickets sold so far: 32
-2024-12-11T21:57:24.339632900 : Customer 7 successfully removed a ticket from the pool. Vendor ID: Vendor 8, Ticket ID: ID 279379492272800
-2024-12-11T21:57:24.340626400 : Total tickets sold so far: 33
-2024-12-11T21:57:24.341627800 : Customer 9 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 279379498246699
-2024-12-11T21:57:24.342653300 : Total tickets sold so far: 34
-2024-12-11T21:57:24.344635700 : Customer 11 successfully removed a ticket from the pool. Vendor ID: Vendor 7, Ticket ID: ID 279379490153300
-2024-12-11T21:57:24.345627500 : Total tickets sold so far: 35
-2024-12-11T21:57:24.346632600 : Customer 10 successfully removed a ticket from the pool. Vendor ID: Vendor 9, Ticket ID: ID 279379485141800
-2024-12-11T21:57:24.348632900 : Total tickets sold so far: 36
-2024-12-11T21:57:24.349657500 : Ticket successfully added to the pool. Current ticket count: 39
-2024-12-11T21:57:24.350635800 : Vendor 0 added a new ticket to the pool: ID 279379524240600
-2024-12-11T21:57:24.351630400 : Ticket successfully added to the pool. Current ticket count: 40
-2024-12-11T21:57:24.352626700 : Vendor 11 added a new ticket to the pool: ID 279379522234999
-2024-12-11T21:57:24.353623400 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 11, Ticket ID: ID 279379480131300
-2024-12-11T21:57:24.355627300 : Total tickets sold so far: 37
-2024-12-11T21:57:24.356625700 : Ticket successfully added to the pool. Current ticket count: 41
-2024-12-11T21:57:24.357623 : Vendor 9 added a new ticket to the pool: ID 279379518260300
-2024-12-11T21:57:24.358626300 : Ticket successfully added to the pool. Current ticket count: 42
-2024-12-11T21:57:24.360627200 : Vendor 7 added a new ticket to the pool: ID 279379515448900
-2024-12-11T21:57:24.362643700 : Ticket successfully added to the pool. Current ticket count: 43
-2024-12-11T21:57:24.364635200 : Vendor 1 added a new ticket to the pool: ID 279379513234000
-2024-12-11T21:57:24.365662900 : Ticket successfully added to the pool. Current ticket count: 44
-2024-12-11T21:57:24.366648100 : Vendor 8 added a new ticket to the pool: ID 279379512263700
-2024-12-11T21:57:24.367644100 : Ticket successfully added to the pool. Current ticket count: 45
-2024-12-11T21:57:24.370657600 : Vendor 5 added a new ticket to the pool: ID 279379508234900
-2024-12-11T21:57:24.371649600 : Ticket successfully added to the pool. Current ticket count: 46
-2024-12-11T21:57:24.372650500 : Vendor 4 added a new ticket to the pool: ID 279379506257599
-2024-12-11T21:57:24.374658300 : Ticket successfully added to the pool. Current ticket count: 47
-2024-12-11T21:57:24.374658300 : Vendor 10 added a new ticket to the pool: ID 279379505265000
-2024-12-11T21:57:24.376650200 : Ticket successfully added to the pool. Current ticket count: 48
-2024-12-11T21:57:24.378648200 : Vendor 3 added a new ticket to the pool: ID 279379501272400
-2024-12-11T21:57:24.380648500 : Ticket successfully added to the pool. Current ticket count: 49
-2024-12-11T21:57:24.383098800 : Vendor 2 added a new ticket to the pool: ID 279379499253200
-2024-12-11T21:57:24.384095300 : Ticket successfully added to the pool. Current ticket count: 50
-2024-12-11T21:57:24.386099300 : Vendor 6 added a new ticket to the pool: ID 279379496242400
-2024-12-11T21:57:24.388089200 : Ticket successfully added to the pool. Current ticket count: 51
-2024-12-11T21:57:24.389118500 : Vendor 8 added a new ticket to the pool: ID 279379579426000
-2024-12-11T21:57:24.390089500 : All tickets have been sold. Thread Vendor 4 has completed its task.
-2024-12-11T21:57:24.390089500 : All tickets have been sold. Thread Vendor 5 has completed its task.
-2024-12-11T21:57:24.390089500 : All tickets have been sold. Thread Vendor 10 has completed its task.
-2024-12-11T21:57:24.391091600 : Ticket successfully added to the pool. Current ticket count: 52
-2024-12-11T21:57:24.393145600 : Vendor 1 added a new ticket to the pool: ID 279379577424900
-2024-12-11T21:57:24.394208200 : All tickets have been sold. Thread Vendor 3 has completed its task.
-2024-12-11T21:57:24.395149400 : Ticket successfully added to the pool. Current ticket count: 53
-2024-12-11T21:57:24.397372600 : All tickets have been sold. Thread Vendor 2 has completed its task.
-2024-12-11T21:57:24.397372600 : Vendor 7 added a new ticket to the pool: ID 279379574423700
-2024-12-11T21:57:24.398896800 : Ticket successfully added to the pool. Current ticket count: 54
-2024-12-11T21:57:24.400900800 : All tickets have been sold. Thread Vendor 6 has completed its task.
-2024-12-11T21:57:24.400900800 : Vendor 9 added a new ticket to the pool: ID 279379571405100
-2024-12-11T21:57:24.401900400 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 279379479135199
-2024-12-11T21:57:24.402921600 : Total tickets sold so far: 38
-2024-12-11T21:57:24.403898700 : All tickets have been sold. Thread Vendor 8 has completed its task.
-2024-12-11T21:57:24.403898700 : Ticket successfully added to the pool. Current ticket count: 55
-2024-12-11T21:57:24.405935500 : Vendor 11 added a new ticket to the pool: ID 279379566385100
-2024-12-11T21:57:24.405935500 : Ticket successfully added to the pool. Current ticket count: 56
-2024-12-11T21:57:24.408381400 : All tickets have been sold. Thread Vendor 1 has completed its task.
-2024-12-11T21:57:24.409362300 : Vendor 0 added a new ticket to the pool: ID 279379564438799
-2024-12-11T21:57:24.411365800 : Customer 10 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 279379524240600
-2024-12-11T21:57:24.413376600 : All tickets have been sold. Thread Vendor 7 has completed its task.
-2024-12-11T21:57:24.414367800 : Total tickets sold so far: 39
-2024-12-11T21:57:24.415364900 : Customer 11 successfully removed a ticket from the pool. Vendor ID: Vendor 11, Ticket ID: ID 279379522234999
-2024-12-11T21:57:24.416364400 : All tickets have been sold. Thread Vendor 9 has completed its task.
-2024-12-11T21:57:24.417359 : Total tickets sold so far: 40
-2024-12-11T21:57:24.418379700 : Customer 9 successfully removed a ticket from the pool. Vendor ID: Vendor 9, Ticket ID: ID 279379518260300
-2024-12-11T21:57:24.419378100 : Total tickets sold so far: 41
-2024-12-11T21:57:24.420376100 : All tickets have been sold. Thread Vendor 11 has completed its task.
-2024-12-11T21:57:24.420376100 : Customer 7 successfully removed a ticket from the pool. Vendor ID: Vendor 7, Ticket ID: ID 279379515448900
-2024-12-11T21:57:24.422360600 : Total tickets sold so far: 42
-2024-12-11T21:57:24.423362100 : Customer 6 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 279379513234000
-2024-12-11T21:57:24.424375 : All tickets have been sold. Thread Vendor 0 has completed its task.
-2024-12-11T21:57:24.424375 : Total tickets sold so far: 43
-2024-12-11T21:57:24.426364700 : Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 8, Ticket ID: ID 279379512263700
-2024-12-11T21:57:24.427381700 : Total tickets sold so far: 44
-2024-12-11T21:57:24.429363700 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 5, Ticket ID: ID 279379508234900
-2024-12-11T21:57:24.431379200 : Total tickets sold so far: 45
-2024-12-11T21:57:24.432364500 : Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 279379506257599
-2024-12-11T21:57:24.433384 : Total tickets sold so far: 46
-2024-12-11T21:57:24.434363500 : Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 10, Ticket ID: ID 279379505265000
-2024-12-11T21:57:24.436360400 : Total tickets sold so far: 47
-2024-12-11T21:57:24.438362700 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 279379501272400
-2024-12-11T21:57:24.439365600 : Total tickets sold so far: 48
-2024-12-11T21:57:24.440364300 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 279379499253200
-2024-12-11T21:57:24.442378100 : Total tickets sold so far: 49
-2024-12-11T21:57:24.443360600 : Customer 6 successfully removed a ticket from the pool. Vendor ID: Vendor 6, Ticket ID: ID 279379496242400
-2024-12-11T21:57:24.444576600 : Total tickets sold so far: 50
-2024-12-11T21:57:24.446601 : Customer 7 successfully removed a ticket from the pool. Vendor ID: Vendor 8, Ticket ID: ID 279379579426000
-2024-12-11T21:57:24.447597300 : Total tickets sold so far: 51
-2024-12-11T21:57:24.448595 : Customer 9 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 279379577424900
-2024-12-11T21:57:24.449593200 : Total tickets sold so far: 52
-2024-12-11T21:57:24.450600700 : Customer 11 successfully removed a ticket from the pool. Vendor ID: Vendor 7, Ticket ID: ID 279379574423700
-2024-12-11T21:57:24.451598900 : Total tickets sold so far: 53
-2024-12-11T21:57:24.452593300 : Customer 10 successfully removed a ticket from the pool. Vendor ID: Vendor 9, Ticket ID: ID 279379571405100
-2024-12-11T21:57:24.453890500 : Total tickets sold so far: 54
-2024-12-11T21:57:24.454905100 : Customer 8 successfully removed a ticket from the pool. Vendor ID: Vendor 11, Ticket ID: ID 279379566385100
-2024-12-11T21:57:24.455907900 : Total tickets sold so far: 55
-2024-12-11T21:57:24.456897900 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 279379564438799
-2024-12-11T21:57:24.457899400 : Total tickets sold so far: 56
-2024-12-11T21:57:24.459899500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:16.760947700 : **************************************************************
+2024-12-11T22:27:16.769743600 : ********WELCOME TO MY REAL-TIME EVENT TICKETING SYSTEM********
+2024-12-11T22:27:16.770814200 : **************************************************************
+2024-12-11T22:27:20.040915500 : Initializing system configurations...
+2024-12-11T22:27:34.524876400 : System configurations successfully initialized.
+2024-12-11T22:27:34.529444900 : Configuration has been saved.
+2024-12-11T22:27:34.538518700 : Ticket successfully added to the pool. Current ticket count: 1
+2024-12-11T22:27:34.539580800 : Vendor 0 added a new ticket to the pool: ID 281189734586399
+2024-12-11T22:27:34.544591900 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189734586399
+2024-12-11T22:27:34.545585500 : Total tickets sold so far: 1
+2024-12-11T22:27:34.546646900 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.547601400 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.548639300 : Ticket successfully added to the pool. Current ticket count: 2
+2024-12-11T22:27:34.548751600 : Vendor 3 added a new ticket to the pool: ID 281189737342800
+2024-12-11T22:27:34.549882900 : Ticket successfully added to the pool. Current ticket count: 3
+2024-12-11T22:27:34.551042600 : Vendor 4 added a new ticket to the pool: ID 281189737242800
+2024-12-11T22:27:34.551042600 : Ticket successfully added to the pool. Current ticket count: 4
+2024-12-11T22:27:34.552159 : Vendor 1 added a new ticket to the pool: ID 281189736940899
+2024-12-11T22:27:34.553301700 : Ticket successfully added to the pool. Current ticket count: 5
+2024-12-11T22:27:34.554338200 : Vendor 2 added a new ticket to the pool: ID 281189737221000
+2024-12-11T22:27:34.554856900 : Ticket successfully added to the pool. Current ticket count: 6
+2024-12-11T22:27:34.556106200 : Vendor 0 added a new ticket to the pool: ID 281189749738300
+2024-12-11T22:27:34.557088600 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189737342800
+2024-12-11T22:27:34.558222500 : Total tickets sold so far: 2
+2024-12-11T22:27:34.559343200 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189737242800
+2024-12-11T22:27:34.559343200 : Total tickets sold so far: 3
+2024-12-11T22:27:34.560521 : VIP Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189736940899
+2024-12-11T22:27:34.561708 : Total tickets sold so far: 4
+2024-12-11T22:27:34.562712200 : VIP Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189737221000
+2024-12-11T22:27:34.563753300 : Total tickets sold so far: 5
+2024-12-11T22:27:34.563810900 : VIP Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189749738300
+2024-12-11T22:27:34.565089400 : Total tickets sold so far: 6
+2024-12-11T22:27:34.566189800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.566266800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.567351800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.568506700 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.568506700 : Ticket successfully added to the pool. Current ticket count: 7
+2024-12-11T22:27:34.568506700 : Vendor 3 added a new ticket to the pool: ID 281189762499500
+2024-12-11T22:27:34.570073700 : Ticket successfully added to the pool. Current ticket count: 8
+2024-12-11T22:27:34.571077300 : Vendor 1 added a new ticket to the pool: ID 281189762496500
+2024-12-11T22:27:34.571461500 : Ticket successfully added to the pool. Current ticket count: 9
+2024-12-11T22:27:34.571461500 : Vendor 4 added a new ticket to the pool: ID 281189762486300
+2024-12-11T22:27:34.572603500 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189762499500
+2024-12-11T22:27:34.573606600 : Total tickets sold so far: 7
+2024-12-11T22:27:34.578928200 : VIP Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189762496500
+2024-12-11T22:27:34.578928200 : Total tickets sold so far: 8
+2024-12-11T22:27:34.579898100 : Ticket successfully added to the pool. Current ticket count: 10
+2024-12-11T22:27:34.580897100 : Vendor 0 added a new ticket to the pool: ID 281189777791399
+2024-12-11T22:27:34.581998400 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189762486300
+2024-12-11T22:27:34.583191200 : Total tickets sold so far: 9
+2024-12-11T22:27:34.584214200 : VIP Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189777791399
+2024-12-11T22:27:34.585297900 : Total tickets sold so far: 10
+2024-12-11T22:27:34.585394800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.586518800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.587613600 : Ticket successfully added to the pool. Current ticket count: 11
+2024-12-11T22:27:34.588742300 : Vendor 2 added a new ticket to the pool: ID 281189777661799
+2024-12-11T22:27:34.589833300 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189777661799
+2024-12-11T22:27:34.589833300 : Total tickets sold so far: 11
+2024-12-11T22:27:34.590925200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.591955900 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.594109200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.594109200 : Ticket successfully added to the pool. Current ticket count: 12
+2024-12-11T22:27:34.595085200 : Vendor 0 added a new ticket to the pool: ID 281189792937800
+2024-12-11T22:27:34.596432400 : Ticket successfully added to the pool. Current ticket count: 13
+2024-12-11T22:27:34.597431600 : Vendor 4 added a new ticket to the pool: ID 281189792941000
+2024-12-11T22:27:34.598526600 : Ticket successfully added to the pool. Current ticket count: 14
+2024-12-11T22:27:34.598526600 : Vendor 3 added a new ticket to the pool: ID 281189792942599
+2024-12-11T22:27:34.600800700 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189792937800
+2024-12-11T22:27:34.600800700 : Total tickets sold so far: 12
+2024-12-11T22:27:34.601799400 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189792941000
+2024-12-11T22:27:34.602866500 : Total tickets sold so far: 13
+2024-12-11T22:27:34.603947 : Ticket successfully added to the pool. Current ticket count: 15
+2024-12-11T22:27:34.604993400 : Vendor 1 added a new ticket to the pool: ID 281189792866499
+2024-12-11T22:27:34.605077800 : Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189792942599
+2024-12-11T22:27:34.606081 : Total tickets sold so far: 14
+2024-12-11T22:27:34.607185200 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189792866499
+2024-12-11T22:27:34.607185200 : Total tickets sold so far: 15
+2024-12-11T22:27:34.608246200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.609444400 : Ticket successfully added to the pool. Current ticket count: 16
+2024-12-11T22:27:34.610661800 : Vendor 0 added a new ticket to the pool: ID 281189808041299
+2024-12-11T22:27:34.610661800 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189808041299
+2024-12-11T22:27:34.611793500 : Total tickets sold so far: 16
+2024-12-11T22:27:34.612875900 : Ticket successfully added to the pool. Current ticket count: 17
+2024-12-11T22:27:34.612875900 : Vendor 2 added a new ticket to the pool: ID 281189808025499
+2024-12-11T22:27:34.613938300 : VIP Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189808025499
+2024-12-11T22:27:34.614943100 : Total tickets sold so far: 17
+2024-12-11T22:27:34.615193 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.616299600 : Ticket successfully added to the pool. Current ticket count: 18
+2024-12-11T22:27:34.617303 : Vendor 4 added a new ticket to the pool: ID 281189808000900
+2024-12-11T22:27:34.617303 : VIP Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189808000900
+2024-12-11T22:27:34.618391100 : Total tickets sold so far: 18
+2024-12-11T22:27:34.624898700 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.624898700 : Ticket successfully added to the pool. Current ticket count: 19
+2024-12-11T22:27:34.626047 : Vendor 3 added a new ticket to the pool: ID 281189823719099
+2024-12-11T22:27:34.627172300 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189823719099
+2024-12-11T22:27:34.628451200 : Total tickets sold so far: 19
+2024-12-11T22:27:34.629662500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.629662500 : Ticket successfully added to the pool. Current ticket count: 20
+2024-12-11T22:27:34.630660400 : Vendor 2 added a new ticket to the pool: ID 281189823684500
+2024-12-11T22:27:34.631715 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189823684500
+2024-12-11T22:27:34.632717 : Total tickets sold so far: 20
+2024-12-11T22:27:34.633753900 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.633753900 : Ticket successfully added to the pool. Current ticket count: 21
+2024-12-11T22:27:34.634902700 : Vendor 1 added a new ticket to the pool: ID 281189823586800
+2024-12-11T22:27:34.634902700 : Ticket successfully added to the pool. Current ticket count: 22
+2024-12-11T22:27:34.636099900 : Vendor 0 added a new ticket to the pool: ID 281189823584800
+2024-12-11T22:27:34.640310700 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189823586800
+2024-12-11T22:27:34.640310700 : Total tickets sold so far: 21
+2024-12-11T22:27:34.642326700 : Ticket successfully added to the pool. Current ticket count: 23
+2024-12-11T22:27:34.642326700 : Vendor 3 added a new ticket to the pool: ID 281189839232600
+2024-12-11T22:27:34.643328200 : Ticket successfully added to the pool. Current ticket count: 24
+2024-12-11T22:27:34.644331600 : Vendor 4 added a new ticket to the pool: ID 281189839169700
+2024-12-11T22:27:34.644331600 : VIP Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189823584800
+2024-12-11T22:27:34.645332500 : Total tickets sold so far: 22
+2024-12-11T22:27:34.646343100 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189839232600
+2024-12-11T22:27:34.646343100 : Total tickets sold so far: 23
+2024-12-11T22:27:34.647331 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189839169700
+2024-12-11T22:27:34.648333600 : Total tickets sold so far: 24
+2024-12-11T22:27:34.649329400 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.650567200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.650567200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.651698700 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.652739400 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.655855500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.656890200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.656946800 : Ticket successfully added to the pool. Current ticket count: 25
+2024-12-11T22:27:34.658086200 : Vendor 3 added a new ticket to the pool: ID 281189854687700
+2024-12-11T22:27:34.659366 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189854687700
+2024-12-11T22:27:34.659366 : Total tickets sold so far: 25
+2024-12-11T22:27:34.660850400 : Ticket successfully added to the pool. Current ticket count: 26
+2024-12-11T22:27:34.660850400 : Vendor 0 added a new ticket to the pool: ID 281189854677999
+2024-12-11T22:27:34.661946200 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189854677999
+2024-12-11T22:27:34.661946200 : Total tickets sold so far: 26
+2024-12-11T22:27:34.662949100 : Ticket successfully added to the pool. Current ticket count: 27
+2024-12-11T22:27:34.662949100 : Vendor 2 added a new ticket to the pool: ID 281189854629500
+2024-12-11T22:27:34.664109500 : Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189854629500
+2024-12-11T22:27:34.664109500 : Total tickets sold so far: 27
+2024-12-11T22:27:34.665146 : Ticket successfully added to the pool. Current ticket count: 28
+2024-12-11T22:27:34.665146 : Vendor 4 added a new ticket to the pool: ID 281189854626500
+2024-12-11T22:27:34.666249800 : Ticket successfully added to the pool. Current ticket count: 29
+2024-12-11T22:27:34.667375600 : Vendor 1 added a new ticket to the pool: ID 281189854626400
+2024-12-11T22:27:34.667375600 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189854626500
+2024-12-11T22:27:34.668453 : Total tickets sold so far: 28
+2024-12-11T22:27:34.668453 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189854626400
+2024-12-11T22:27:34.670086900 : Total tickets sold so far: 29
+2024-12-11T22:27:34.670086900 : Ticket successfully added to the pool. Current ticket count: 30
+2024-12-11T22:27:34.671155500 : Vendor 3 added a new ticket to the pool: ID 281189868760099
+2024-12-11T22:27:34.672256200 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189868760099
+2024-12-11T22:27:34.673357700 : Total tickets sold so far: 30
+2024-12-11T22:27:34.680788600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.683014500 : Ticket successfully added to the pool. Current ticket count: 31
+2024-12-11T22:27:34.683014500 : Vendor 3 added a new ticket to the pool: ID 281189881832700
+2024-12-11T22:27:34.686462600 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189881832700
+2024-12-11T22:27:34.686462600 : Total tickets sold so far: 31
+2024-12-11T22:27:34.687357500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.688419600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.689716200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.690876700 : Ticket successfully added to the pool. Current ticket count: 32
+2024-12-11T22:27:34.690876700 : Vendor 2 added a new ticket to the pool: ID 281189885261300
+2024-12-11T22:27:34.691911800 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189885261300
+2024-12-11T22:27:34.692957600 : Total tickets sold so far: 32
+2024-12-11T22:27:34.694006700 : Ticket successfully added to the pool. Current ticket count: 33
+2024-12-11T22:27:34.694101200 : Vendor 0 added a new ticket to the pool: ID 281189885250300
+2024-12-11T22:27:34.695234900 : Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189885250300
+2024-12-11T22:27:34.696537500 : Total tickets sold so far: 33
+2024-12-11T22:27:34.696598800 : Ticket successfully added to the pool. Current ticket count: 34
+2024-12-11T22:27:34.697658200 : Vendor 1 added a new ticket to the pool: ID 281189885234100
+2024-12-11T22:27:34.698764600 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189885234100
+2024-12-11T22:27:34.698764600 : Total tickets sold so far: 34
+2024-12-11T22:27:34.699875800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.700896200 : Ticket successfully added to the pool. Current ticket count: 35
+2024-12-11T22:27:34.702016800 : Vendor 4 added a new ticket to the pool: ID 281189885217699
+2024-12-11T22:27:34.702016800 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189885217699
+2024-12-11T22:27:34.703046100 : Total tickets sold so far: 35
+2024-12-11T22:27:34.704039800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.705136600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.705191800 : Ticket successfully added to the pool. Current ticket count: 36
+2024-12-11T22:27:34.706195200 : Vendor 2 added a new ticket to the pool: ID 281189901832800
+2024-12-11T22:27:34.706487600 : Ticket successfully added to the pool. Current ticket count: 37
+2024-12-11T22:27:34.707539900 : Vendor 3 added a new ticket to the pool: ID 281189900695900
+2024-12-11T22:27:34.708579 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189901832800
+2024-12-11T22:27:34.708740800 : Total tickets sold so far: 36
+2024-12-11T22:27:34.708740800 : VIP Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189900695900
+2024-12-11T22:27:34.710044500 : Total tickets sold so far: 37
+2024-12-11T22:27:34.710044500 : Ticket successfully added to the pool. Current ticket count: 38
+2024-12-11T22:27:34.711118300 : Vendor 1 added a new ticket to the pool: ID 281189908636300
+2024-12-11T22:27:34.713530500 : Ticket successfully added to the pool. Current ticket count: 39
+2024-12-11T22:27:34.713682200 : Vendor 4 added a new ticket to the pool: ID 281189912287400
+2024-12-11T22:27:34.717133800 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189908636300
+2024-12-11T22:27:34.718046100 : Total tickets sold so far: 38
+2024-12-11T22:27:34.719223500 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189912287400
+2024-12-11T22:27:34.719403800 : Total tickets sold so far: 39
+2024-12-11T22:27:34.720467800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.721587100 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.722686800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.722739300 : Ticket successfully added to the pool. Current ticket count: 40
+2024-12-11T22:27:34.723880700 : Vendor 2 added a new ticket to the pool: ID 281189915908799
+2024-12-11T22:27:34.724918900 : Ticket successfully added to the pool. Current ticket count: 41
+2024-12-11T22:27:34.726046300 : Vendor 0 added a new ticket to the pool: ID 281189915916200
+2024-12-11T22:27:34.727142300 : Ticket successfully added to the pool. Current ticket count: 42
+2024-12-11T22:27:34.728144600 : Vendor 1 added a new ticket to the pool: ID 281189921378400
+2024-12-11T22:27:34.728238700 : VIP Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189915908799
+2024-12-11T22:27:34.729341300 : Total tickets sold so far: 40
+2024-12-11T22:27:34.729341300 : Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189915916200
+2024-12-11T22:27:34.730446400 : Total tickets sold so far: 41
+2024-12-11T22:27:34.732600300 : VIP Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189921378400
+2024-12-11T22:27:34.732600300 : Total tickets sold so far: 42
+2024-12-11T22:27:34.733686300 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.734703200 : Ticket successfully added to the pool. Current ticket count: 43
+2024-12-11T22:27:34.734703200 : Vendor 3 added a new ticket to the pool: ID 281189931322200
+2024-12-11T22:27:34.735691500 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189931322200
+2024-12-11T22:27:34.735691500 : Total tickets sold so far: 43
+2024-12-11T22:27:34.737100500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.738191100 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.738191100 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.739199500 : Ticket successfully added to the pool. Current ticket count: 44
+2024-12-11T22:27:34.740197 : Vendor 4 added a new ticket to the pool: ID 281189931275800
+2024-12-11T22:27:34.741197400 : VIP Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189931275800
+2024-12-11T22:27:34.741293800 : Total tickets sold so far: 44
+2024-12-11T22:27:34.744540600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.746900700 : Ticket successfully added to the pool. Current ticket count: 45
+2024-12-11T22:27:34.748019400 : Vendor 3 added a new ticket to the pool: ID 281189945558900
+2024-12-11T22:27:34.749048600 : Ticket successfully added to the pool. Current ticket count: 46
+2024-12-11T22:27:34.749126100 : Vendor 2 added a new ticket to the pool: ID 281189946718500
+2024-12-11T22:27:34.750611500 : Ticket successfully added to the pool. Current ticket count: 47
+2024-12-11T22:27:34.751733500 : Vendor 1 added a new ticket to the pool: ID 281189946702000
+2024-12-11T22:27:34.752932100 : Ticket successfully added to the pool. Current ticket count: 48
+2024-12-11T22:27:34.754048400 : Vendor 0 added a new ticket to the pool: ID 281189946708599
+2024-12-11T22:27:34.755256800 : Customer 5 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189945558900
+2024-12-11T22:27:34.756260 : Total tickets sold so far: 45
+2024-12-11T22:27:34.757058800 : Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189946718500
+2024-12-11T22:27:34.758064500 : Total tickets sold so far: 46
+2024-12-11T22:27:34.759070100 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189946702000
+2024-12-11T22:27:34.760066600 : Total tickets sold so far: 47
+2024-12-11T22:27:34.761299600 : VIP Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 281189946708599
+2024-12-11T22:27:34.762438400 : Total tickets sold so far: 48
+2024-12-11T22:27:34.762438400 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.763530900 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.764813600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.766017 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.766017 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.766848300 : Ticket successfully added to the pool. Current ticket count: 49
+2024-12-11T22:27:34.767921800 : Vendor 1 added a new ticket to the pool: ID 281189962196299
+2024-12-11T22:27:34.768991900 : Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 281189962196299
+2024-12-11T22:27:34.769932300 : Total tickets sold so far: 49
+2024-12-11T22:27:34.771136800 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.772375400 : Ticket successfully added to the pool. Current ticket count: 50
+2024-12-11T22:27:34.773449200 : Vendor 2 added a new ticket to the pool: ID 281189962188899
+2024-12-11T22:27:34.774687400 : VIP Customer 3 successfully removed a ticket from the pool. Vendor ID: Vendor 2, Ticket ID: ID 281189962188899
+2024-12-11T22:27:34.775764 : Total tickets sold so far: 50
+2024-12-11T22:27:34.776869200 : Ticket successfully added to the pool. Current ticket count: 51
+2024-12-11T22:27:34.776869200 : Vendor 3 added a new ticket to the pool: ID 281189957840000
+2024-12-11T22:27:34.777960 : Ticket successfully added to the pool. Current ticket count: 52
+2024-12-11T22:27:34.777960 : Vendor 4 added a new ticket to the pool: ID 281189950384699
+2024-12-11T22:27:34.779431900 : VIP Customer 2 successfully removed a ticket from the pool. Vendor ID: Vendor 3, Ticket ID: ID 281189957840000
+2024-12-11T22:27:34.781576 : All tickets have been sold. Thread Vendor 1 has completed its task.
+2024-12-11T22:27:34.781576 : Total tickets sold so far: 51
+2024-12-11T22:27:34.781576 : All tickets have been sold. Thread Vendor 0 has completed its task.
+2024-12-11T22:27:34.782005900 : Customer 4 successfully removed a ticket from the pool. Vendor ID: Vendor 4, Ticket ID: ID 281189950384699
+2024-12-11T22:27:34.783115900 : Total tickets sold so far: 52
+2024-12-11T22:27:34.783115900 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.784230500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-11T22:27:34.796764700 : All tickets have been sold. Thread Vendor 2 has completed its task.
+2024-12-11T22:27:34.796764700 : All tickets have been sold. Thread Vendor 3 has completed its task.
+2024-12-11T22:27:34.796764700 : All tickets have been sold. Thread Vendor 4 has completed its task.

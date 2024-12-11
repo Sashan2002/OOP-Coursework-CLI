@@ -105,7 +105,6 @@ public class TicketPool implements TicketOperations {
     @Override
     public synchronized void removeTicket() {
 
-
         if (!ticketPool.isEmpty()){
             // Remove the first ticket in the queue
             Ticket ticket= ticketPool.remove(0);

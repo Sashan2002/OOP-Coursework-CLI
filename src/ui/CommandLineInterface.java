@@ -32,9 +32,9 @@ public class CommandLineInterface {
      */
     public static Configurations configurations(){
         Scanner input = new Scanner(System.in);
-        Logger.log("************************************************************");
-        Logger.log("WELCOME MY REAL-TIME EVENT TICKETING SYSTEM");
-        Logger.log("************************************************************");
+        Logger.log("**************************************************************");
+        Logger.log("********WELCOME TO MY REAL-TIME EVENT TICKETING SYSTEM********");
+        Logger.log("**************************************************************");
 
         // Check if a previous configuration exists
         Configurations previousConfig = loadConfiguration();

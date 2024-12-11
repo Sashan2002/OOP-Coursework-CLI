@@ -43,18 +43,24 @@ public class Main {
 
         }
 
-//        for (int i = 0; i < configurations.getNumberOfCustomers(); i++) {
-//            customerThreads[i]= new Thread(new Customer(ticketPool, configurations.getReleaseRates(),configurations.getTotalTickets()));
-//            customerThreads[i].setName("VIP Customer "+ i);
-//            customerThreads[i].setPriority(Thread.MAX_PRIORITY);
-//            customerThreads[i].start();
-//            System.out.println("Customer "+ i +" : "+ customerThreads[i].getName());
-//
-//        }
+        // The following section to add VIP customers with higher priority
+        for (int i = 0; i < configurations.getNumberOfCustomers(); i++) {
+            // Create a new thread for each VIP customer
+            customerThreads[i]= new Thread(new Customer(ticketPool, configurations.getReleaseRates(),configurations.getTotalTickets()));
+            // Set a custom name for the VIP customer thread for easier identification
+            customerThreads[i].setName("VIP Customer "+ i);
+            // Set the thread's priority to maximum to ensure it gets more CPU time
+            customerThreads[i].setPriority(Thread.MAX_PRIORITY);
+            // Start the VIP customer thread to begin ticket retrieval
+            customerThreads[i].start();
+            // Log the thread's name to the console for tracking
+            System.out.println("Customer "+ i +" : "+ customerThreads[i].getName());
+
+        }
 
 
 
-        // Command listener thread to handle user commands during runtime
+        //Command listener thread to handle user commands during runtime
         Thread commandListener = new Thread(() -> {
             Scanner scanner = new Scanner(System.in);
             while (true) {
