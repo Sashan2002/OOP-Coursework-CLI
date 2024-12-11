@@ -1,0 +1,8 @@
+{
+  "totalTickets": 50,
+  "releaseRates": 12,
+  "retrievalRate": 12,
+  "maxPoolTickets": 50,
+  "numberOfVendors": 12,
+  "numberOfCustomers": 12
+}
