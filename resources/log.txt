@@ -1,3 +1,62 @@
-2024-12-12T05:38:20.483519100 : **************************************************************
-2024-12-12T05:38:20.502517400 : ********WELCOME TO MY REAL-TIME EVENT TICKETING SYSTEM********
-2024-12-12T05:38:20.503518700 : **************************************************************
+2024-12-12T11:28:12.665878600 : **************************************************************
+2024-12-12T11:28:12.675883900 : ********WELCOME TO MY REAL-TIME EVENT TICKETING SYSTEM********
+2024-12-12T11:28:12.676881900 : **************************************************************
+2024-12-12T11:28:19.414203800 : Initializing system configurations...
+2024-12-12T11:29:10.785251 : System configurations successfully initialized.
+2024-12-12T11:29:10.791251600 : Configuration has been saved.
+2024-12-12T11:29:10.801269700 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:10.802256700 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:10.803256200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:10.804258600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:10.806276100 : Ticket successfully added to the pool. Current ticket count: 1
+2024-12-12T11:29:10.807260100 : Vendor 0 added a new ticket to the pool: ID 328085999885300
+2024-12-12T11:29:10.808256500 : Ticket successfully added to the pool. Current ticket count: 2
+2024-12-12T11:29:10.809268 : Vendor 1 added a new ticket to the pool: ID 328085999987300
+2024-12-12T11:29:11.813012700 : Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 328085999885300
+2024-12-12T11:29:11.814013300 : Total tickets sold so far: 1
+2024-12-12T11:29:11.814013300 : Ticket successfully added to the pool. Current ticket count: 3
+2024-12-12T11:29:11.815015100 : Vendor 1 added a new ticket to the pool: ID 328087011747500
+2024-12-12T11:29:11.815015100 : Ticket successfully added to the pool. Current ticket count: 4
+2024-12-12T11:29:11.816492200 : Vendor 0 added a new ticket to the pool: ID 328087007853600
+2024-12-12T11:29:11.817513800 : VIP Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 328085999987300
+2024-12-12T11:29:11.818501100 : Total tickets sold so far: 2
+2024-12-12T11:29:11.818501100 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 328087011747500
+2024-12-12T11:29:11.819499100 : Total tickets sold so far: 3
+2024-12-12T11:29:11.819499100 : Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 328087007853600
+2024-12-12T11:29:11.820689 : Total tickets sold so far: 4
+2024-12-12T11:29:12.816023600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:12.818052400 : Ticket successfully added to the pool. Current ticket count: 5
+2024-12-12T11:29:12.819075900 : Vendor 1 added a new ticket to the pool: ID 328088016907200
+2024-12-12T11:29:12.819075900 : Ticket successfully added to the pool. Current ticket count: 6
+2024-12-12T11:29:12.820025600 : Vendor 0 added a new ticket to the pool: ID 328088016906700
+2024-12-12T11:29:12.822207500 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 328088016907200
+2024-12-12T11:29:12.822207500 : Total tickets sold so far: 5
+2024-12-12T11:29:12.823711100 : VIP Customer 1 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 328088016906700
+2024-12-12T11:29:12.823711100 : Total tickets sold so far: 6
+2024-12-12T11:29:12.825130200 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:13.819962500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:13.820960700 : Ticket successfully added to the pool. Current ticket count: 7
+2024-12-12T11:29:13.822029200 : Vendor 1 added a new ticket to the pool: ID 328089018790500
+2024-12-12T11:29:13.824045500 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 328089018790500
+2024-12-12T11:29:13.824959400 : Total tickets sold so far: 7
+2024-12-12T11:29:13.825956500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:13.832067300 : Ticket successfully added to the pool. Current ticket count: 8
+2024-12-12T11:29:13.832067300 : Vendor 0 added a new ticket to the pool: ID 328089030957700
+2024-12-12T11:29:14.826153200 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 328089030957700
+2024-12-12T11:29:14.827149400 : Total tickets sold so far: 8
+2024-12-12T11:29:14.827149400 : Ticket successfully added to the pool. Current ticket count: 9
+2024-12-12T11:29:14.828321700 : Vendor 1 added a new ticket to the pool: ID 328090025030300
+2024-12-12T11:29:14.829344500 : Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 1, Ticket ID: ID 328090025030300
+2024-12-12T11:29:14.829344500 : Total tickets sold so far: 9
+2024-12-12T11:29:14.830511600 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:14.841209300 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:14.842164 : Ticket successfully added to the pool. Current ticket count: 10
+2024-12-12T11:29:14.843116900 : Vendor 0 added a new ticket to the pool: ID 328090040085800
+2024-12-12T11:29:15.829135500 : VIP Customer 0 successfully removed a ticket from the pool. Vendor ID: Vendor 0, Ticket ID: ID 328090040085800
+2024-12-12T11:29:15.829135500 : Total tickets sold so far: 10
+2024-12-12T11:29:15.839181100 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:15.841334500 : All tickets have been sold. Thread Vendor 1 has completed its task.
+2024-12-12T11:29:15.853958500 : All tickets have been sold. Thread Vendor 0 has completed its task.
+2024-12-12T11:29:15.853958500 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:15.854950300 : The ticket pool is currently empty. Waiting for tickets to be added...
+2024-12-12T11:29:16.832413900 : The ticket pool is currently empty. Waiting for tickets to be added...
