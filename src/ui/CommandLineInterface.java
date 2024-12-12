@@ -53,12 +53,12 @@ public class CommandLineInterface {
         Logger.log("Initializing system configurations...");
 
         // Gather inputs for system configuration
-        int totalTickets = getInputs(input, "Please enter the total number of tickets available: ");
+        int totalTickets = getInputs(input, "Please enter the total number of tickets available (must be greater than 0): ");
         int maxPoolTickets;
 
         // Ensure the maximum pool size does not exceed the total tickets
         while(true){
-            maxPoolTickets = getInputs(input, "Please enter the maximum size of the ticket pool: ");
+            maxPoolTickets = getInputs(input, "Please enter the maximum size of the ticket pool (must be greater than 0): ");
             if (maxPoolTickets<=totalTickets){
                 break;
             }else{
@@ -67,8 +67,8 @@ public class CommandLineInterface {
         }
 
         // Gather remaining configuration details
-        int retrievalRate = getInputs(input, "Please enter the rate at which tickets are retrieved: ");
-        int releaseRate = getInputs(input, "Please enter the rate at which tickets are released: ");
+        int retrievalRate = getInputs(input, "Please enter the rate at which tickets are retrieved (must be greater than 0): ");
+        int releaseRate = getInputs(input, "Please enter the rate at which tickets are released (must be greater than 0): ");
         int numberOfVendors = getInputs(input, "Please enter the number of vendors: ");
         int numberOfCustomers = getInputs(input, "Please enter the number of customers: ");
 
