@@ -56,7 +56,7 @@ public class Customer extends AbstractTicketHandler implements Runnable {
             ticketpool.removeTicket(); // Remove a ticket from the pool
             try {
                 // Pause the thread for the specified retrieval rate
-                Thread.sleep(retrievalRate);
+                Thread.sleep(retrievalRate * 500);
             } catch (InterruptedException e) {
                 // Handle interruption during sleep
                 Thread.currentThread().interrupt(); // Restore the interrupted status

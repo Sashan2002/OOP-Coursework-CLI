@@ -63,7 +63,7 @@ public class Vendor extends AbstractTicketHandler implements Runnable {
 
             try {
                 // Sleep for the specified release rate to simulate ticket release timing
-                Thread.sleep(ticketReleaseRate);
+                Thread.sleep(ticketReleaseRate * 500);
             } catch (InterruptedException e) {
 
                 // Log and handle thread interruption gracefully

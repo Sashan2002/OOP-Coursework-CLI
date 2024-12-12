@@ -28,7 +28,7 @@ public class Main {
             vendorThreads[i]= new Thread(new Vendor(ticketPool, configurations.getReleaseRates(),configurations.getTotalTickets()));
             vendorThreads[i].setName("Vendor " + i);
             vendorThreads[i].start(); // Start the vendor thread
-            System.out.println("Vendor "+ i +" : "+ vendorThreads[i].getName());
+            //System.out.println("Vendor "+ i +" : "+ vendorThreads[i].getName());
 
         }
 
@@ -39,7 +39,7 @@ public class Main {
             customerThreads[i]= new Thread(new Customer(ticketPool, configurations.getReleaseRates(),configurations.getTotalTickets()));
             customerThreads[i].setName("Customer "+ i);
             customerThreads[i].start(); // Start the customer thread
-            System.out.println("Customer "+ i +" : "+ customerThreads[i].getName());
+           // System.out.println("Customer "+ i +" : "+ customerThreads[i].getName());
 
         }
 
@@ -54,7 +54,7 @@ public class Main {
             // Start the VIP customer thread to begin ticket retrieval
             customerThreads[i].start();
             // Log the thread's name to the console for tracking
-            System.out.println("Customer "+ i +" : "+ customerThreads[i].getName());
+            //System.out.println("Customer "+ i +" : "+ customerThreads[i].getName());
 
         }
 

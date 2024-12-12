@@ -98,7 +98,7 @@ public class CommandLineInterface {
         int value;
 
         while (true){
-            System.out.println(prompt);
+            System.out.print(prompt);
             try {
                 value = Integer.parseInt(input.next());
                 if (value > 0) {

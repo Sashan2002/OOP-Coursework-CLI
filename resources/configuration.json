@@ -1,8 +1,8 @@
 {
-  "totalTickets": 50,
-  "releaseRates": 10,
-  "retrievalRate": 10,
-  "maxPoolTickets": 20,
-  "numberOfVendors": 5,
-  "numberOfCustomers": 6
+  "totalTickets": 10,
+  "releaseRates": 2,
+  "retrievalRate": 2,
+  "maxPoolTickets": 5,
+  "numberOfVendors": 2,
+  "numberOfCustomers": 2
 }
